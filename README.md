@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a .NET developer with more than three years of experience, I have experience in developing both desktop and web applications. In addition, I have good Data Analytics.
+
+To contact me, please send me a telegram @emillxan
+
 <!--
 **emillxan/emillxan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
