@@ -1,4 +1,4 @@
-<h1 align="center">Software Engineer • Emil</h1>
+<h1 align="center">Software Engineer • Emil Khanmammadov</h1>
 <p align="center">📍 Currently in Baku, Azerbaijan</p>
 <p align="center">
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/Full_Resume-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
