@@ -6,7 +6,7 @@
 5+ years building enterprise software. Working across the full cycle — from architecture to production.
 
 Primary stack is C# and .NET ecosystem. But I work language-agnostic: if the task requires a different stack — I'll figure it out and ship it.
-
+<hr style="height: 1px; background-color: #333; border: none;">
 
 ### 🌍 Open to
 Remote opportunities with international companies. Flexible location and timezone.
