@@ -1,34 +1,48 @@
-<h1 align="center">Software Engineer</h1>
-<h2 align="center">Emil</h2>
-<p align="center">📍 Currently in Baku, Azerbaijan</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://t.me/your-telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <h1>Emil • Software Engineer</h1>
+        <p>📍 Currently in Baku, Azerbaijan</p>
+      </td>
+      <td align="right">
+        <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br>
+        <a href="https://t.me/your-telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a><br>
+        <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-5+ years of experience in software development with a focus on enterprise systems and full-cycle delivery.
+5+ years building enterprise software. Working across the full cycle — from architecture to production.
 
-**What I do:**
-- **ERP & Financial Systems** — building complex enterprise solutions for oil & gas industry
-- **Team Leadership** — leading development teams and mentoring junior developers
-- **Real-time Systems** — developing high-performance backend services and real-time processing
-- **Cross-platform Solutions** — web applications, desktop apps, background services
-- **DevOps & Infrastructure** — CI/CD pipelines, Docker containerization, deployment automation
+**Experience:**
 
-**Primary stack:** C# / .NET  
-**Approach:** Language-agnostic problem solver — can pick up and deliver with any technology stack
+- **ERP & Financial Platforms** — specialized in enterprise systems for the oil & gas industry
+
+- **Payment Systems** — banking API integrations, multi-level approval workflows, document management
+
+- **High-Load Services** — real-time transaction processing and distributed systems for offshore drilling platforms
+
+- **Solution Architecture** — designing web applications, desktop solutions, and background services with scalability in mind
+
+- **Team Leadership** — sprint planning, code reviews, mentoring juniors, establishing development processes
+
+- **DevOps & Infrastructure** — CI/CD pipelines, Docker containerization, deployment and migration automation
+
+**Tech Stack:**
+
+Primary stack is C# and .NET ecosystem. But I work language-agnostic: if the task requires a different stack — I'll figure it out and ship it.
 
 ---
 
 ### 🌍 Open to
 
-Remote opportunities with international companies. Flexible location.
+Remote opportunities with international companies. Flexible location and timezone.
 
 ---
 
